@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test TP</string>
+    <string name="login_txt_instructions">Ingresa a tu cuenta</string>
+    <string name="login_txt_user_instructions">Ingresa tus datos</string>
+    <string name="login_txt_password_instructions">Ingresa la contraseña</string>
+    <string name="login_btn_label">Iniciar Sesión</string>
+    <string name="login_txt_password_label">Contraseña</string>
+    <string name="login_txt_label_register">Registrate aqui</string>
+    <string name="login_txt_forgot_password">Olvide mi contraseña</string>
+    <string name="login_txt_password_label_register">¿No tienes contraseña?</string>
+    <string name="login_txt_user_instructions_label">Cuenta, correo y telefono</string>
+    <string name="title_activity_references">ReferencesActivity</string>
+    <string name="login_txt_loading">Cargando...</string>
+    <string name="preferences_title">Utiliza la referencia para pagar en los bancos participantes</string>
+</resources>
